@@ -8,9 +8,9 @@ A mixin to separate remote method from Model file and hides pre-defined remote m
 1. Hide remote methods by blacklisting (example User.login, User.logout)
 
 ## TODOs
-[ ] Usage documentation
-[ ] API documentation
-[ ] Write test
+- [ ] Usage documentation
+- [ ] API documentation
+- [ ] Write test
 
 ## Contributors
 - Saggaf Arsyad <saggaf@nusantarabetastudio.com>
