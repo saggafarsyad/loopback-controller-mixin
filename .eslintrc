@@ -1,0 +1,26 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 6
+  },
+  "env": {
+    "es6": true,
+    "node": true
+  },
+  "rules": {
+    "linebreak-style": 0,
+    "max-len": 0,
+    "quote-props": ["error", "consistent"],
+    "semi": ["error", "never"],
+    "new-cap": ["error", {
+      "capIsNew": false
+    }],
+    "one-var": ["error", {
+      "initialized": "never"
+    }],
+    "no-invalid-this": "off",
+    "comma-dangle": "off",
+    "arrow-parens": ["error", "as-needed"],
+    "no-undef": 1,
+    "no-unused-vars": 1
+  }
+}

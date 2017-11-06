@@ -1,0 +1,35 @@
+{
+  "name": "loopback-controller-mixin",
+  "author": "Saggaf Arsyad",
+  "contributors": [
+    {
+      "name": "Saggaf Arsyad",
+      "email": "saggaf@nusantarabetastudio.com",
+      "url": "nusantarabetastudio.com"
+    }
+  ],
+  "version": "1.0.0",
+  "description": "A mixin to separate remote method from Model file and hides pre-defined remote methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "loopback",
+    "strongloop",
+    "mixin",
+    "controller"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:saggafarsyad/loopback-controller-mixin.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "eslint": "^4.10.0"
+  }
+}
