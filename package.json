@@ -8,7 +8,7 @@
       "url": "nusantarabetastudio.com"
     }
   ],
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "A mixin to separate remote method from Model file and hides pre-defined remote methods",
   "main": "index.js",
   "scripts": {
